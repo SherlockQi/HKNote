@@ -4,13 +4,15 @@
 
 |Hello|World|!|
 |:---:|:---:|:---:|
-|![image](https://github.com/SherlockQi/HKNote/blob/master/HKSegmentView.gif)| ||
+|![image](https://github.com/SherlockQi/HKNote/blob/master/HKSegmentView.gif)|||
 |[HKSegmentView](https://github.com/SherlockQi/HKSegmentView)<br>*滑动模块*|||
 
 
-|![image](https://github.com/SherlockQi/HKNote/blob/master/DynamicCell.gif)|![image](https://github.com/mengxianliang/XLSlideSwitch/raw/master/GIF/1-1.gif)|![image](https://github.com/mengxianliang/XLChannelControl/raw/master/GIF/3.gif)|
 
-|||
+|![image](https://github.com/SherlockQi/HKNote/blob/master/DynamicCell.gif)|||
+|[NEDynamicCell](https://github.com/SherlockQi/NEDynamicCell)<br>*立体 cell*|||
+
+
 
 
 <!--|![image](https://github.com/mengxianliang/XLPlayButton/blob/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLPlayButton/blob/master/GIF/2.gif)||-->
