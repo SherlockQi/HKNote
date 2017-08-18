@@ -4,8 +4,8 @@
 
 |Hello|World|!|
 |:---:|:---:|:---:|
-|![image](https://github.com/SherlockQi/HKNote/blob/master/HKSegmentView.gif)|![image](https://github.com/mengxianliang/XLPlayButton/blob/master/GIF/2.gif)||
-| ||
+|![image](https://github.com/SherlockQi/HKNote/blob/master/HKSegmentView.gif)| ||
+|[HKSegmentView](https://github.com/SherlockQi/HKSegmentView)<br>*滑动模块*|||
 
 
 
