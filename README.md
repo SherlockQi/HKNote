@@ -8,6 +8,9 @@
 |[HKSegmentView](https://github.com/SherlockQi/HKSegmentView)<br>*滑动模块*|||
 
 
+|![image](https://github.com/SherlockQi/HKNote/blob/master/DynamicCell.gif)| ||
+|[HKSegmentView](https://github.com/SherlockQi/NEDynamicCell)<br>*立体 cell*|||
+
 
 
 <!--|![image](https://github.com/mengxianliang/XLPlayButton/blob/master/GIF/1.gif)|![image](https://github.com/mengxianliang/XLPlayButton/blob/master/GIF/2.gif)||-->
