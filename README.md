@@ -8,7 +8,7 @@
 |[HKSegmentView](https://github.com/SherlockQi/HKSegmentView)<br>*滑动模块*|||
 
 
-|![image](https://github.com/SherlockQi/HKNote/blob/master/DynamicCell.gif)|![image](https://github.com/mengxianliang/XLSlideSwitch/raw/master/GIF/1-1.gif)|![image](https://github.com/mengxianliang/XLChannelControl/raw/master/GIF/3.gif)|||
+|![image](https://github.com/SherlockQi/HKNote/blob/master/DynamicCell.gif)|![image](https://github.com/mengxianliang/XLSlideSwitch/raw/master/GIF/1-1.gif)|![image](https://github.com/mengxianliang/XLChannelControl/raw/master/GIF/3.gif)|
 
 |||
 
