@@ -7,7 +7,7 @@
 |![image](https://github.com/SherlockQi/HKNote/blob/master/HKSegmentView.gif)|||
 |[HKSegmentView](https://github.com/SherlockQi/HKSegmentView)<br>*滑动模块*|||
 |![image](https://github.com/SherlockQi/HKNote/blob/master/DynamicCell.gif)|||
-|[NEDynamicCell](https://github.com/SherlockQi/NEDynamicCell)<br>*立体 cell*|||
+|[NEDynamicCell](https://github.com/SherlockQi/NEDynamicCell)<br>*立体 cell*|[NEDynamicCell](https://github.com/SherlockQi/KHAlertController)<br>*带图片的提示框*||
 
 
 
