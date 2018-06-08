@@ -1,8 +1,9 @@
 
 ### 开源项目
+|Hello|World|!|
 |:---:|:---:|:---:|
 |![image](https://github.com/SherlockQi/HKNote/blob/master/image/WeAre.gif)|||
-|[HKSegmentView](https://github.com/SherlockQi/HeavenMemoirs)<br>*WeAre AR相册*|||
+|[WeAre](https://github.com/SherlockQi/HeavenMemoirs)<br>*AR相册*|||
 
 ### DEMO
 
