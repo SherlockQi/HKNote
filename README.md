@@ -1,4 +1,8 @@
 
+### 开源项目
+|:---:|:---:|:---:|
+|![image](https://github.com/SherlockQi/HKNote/blob/master/image/WeAre.gif)|||
+|[HKSegmentView](https://github.com/SherlockQi/HeavenMemoirs)<br>*WeAre AR相册*|||
 
 ### DEMO
 
