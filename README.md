@@ -6,7 +6,7 @@
 |[WeAre](https://github.com/SherlockQi/HeavenMemoirs)<br>*AR相册*|||
 
 ### DEMO
-https://github.com/SherlockQi/HKNote/blob/master/HKTabBar_QQ.gif
+
 |Hello|World|!|
 |:---:|:---:|:---:|
 |![image](https://github.com/SherlockQi/HKNote/blob/master/HKTabBar_QQ.gif)|![image](https://github.com/SherlockQi/HKSubTitleView/blob/master/HKSubTitleView.gif)||
