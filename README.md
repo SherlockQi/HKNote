@@ -9,8 +9,7 @@
 https://github.com/SherlockQi/HKNote/blob/master/HKTabBar_QQ.gif
 |Hello|World|!|
 |:---:|:---:|:---:|
-|![image](https://github.com/SherlockQi/HKNote/blob/master/HKTabBar_QQ.gif)|![image](https://github.com/SherlockQi/HKSubTitleView/blob/master/HKSubTitleView.gif)||
-|[HKTabBar_QQ](https://github.com/SherlockQi/HKTabBar_QQ)<br>*仿QQtabbar拖动动画*|[HKSubTitleView](https://github.com/SherlockQi/HKSubTitleView)<br>*subTitle*||
+
 |![image](https://github.com/SherlockQi/HKNote/blob/master/HKSegmentView.gif)|![image](https://github.com/SherlockQi/HKNote/blob/master/wave.gif)|![image](https://github.com/SherlockQi/HKNote/blob/master/NESoarButton.gif)|
 |[HKSegmentView](https://github.com/SherlockQi/HKSegmentView)<br>*滑动模块*|[HKWavePath](https://github.com/SherlockQi/HKWavePath)<br>*水波*|[NESoarButton](https://github.com/SherlockQi/NESoarButton)|
 |![image](https://github.com/SherlockQi/HKNote/blob/master/DynamicCell.gif)|![image](https://github.com/SherlockQi/HKNote/blob/master/H.gif)|![image](https://github.com/SherlockQi/HeavenMemoirs/blob/master/H.gif)|
